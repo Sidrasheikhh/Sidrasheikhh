@@ -5,9 +5,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=24&center=true&vCenter=true&width=700&lines=Learning+Excel+|+SQL+|+Power+BI+|+Python;Passionate+about+Data+📊;Open+to+Opportunities" />
 </p>
-
----
-
+<h3 align="center">💼 Open to Data Analyst Internships</h3>
 
 ---
 ### 👩‍💻 About Me
@@ -53,3 +51,13 @@
 - Data cleaning using Pandas  
 - Basic data visualization using Matplotlib
 
+  ---
+
+### 📈 GitHub Activity
+
+Consistently learning and building skills 🚀
+---
+
+### 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=Sidrasheikhh&color=blue)

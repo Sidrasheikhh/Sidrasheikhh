@@ -1,20 +1,26 @@
-<h1 align="center">Hi 👋, I'm Sidra Sheikh</h1>
+<h1 align="center">Sidra Sheikh</h1>
+
+<h3 align="center">Aspiring Data Analyst</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=24&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;Learning+SQL+|+Power+BI+|+Python;Passionate+about+Data+📊" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=24&center=true&vCenter=true&width=700&lines=Learning+Excel+|+SQL+|+Power+BI+|+Python;Passionate+about+Data+📊;Open+to+Opportunities" />
 </p>
 
 ---
 
+
+---
 ### 👩‍💻 About Me
-- 🌱 I’m currently learning Data Analytics
-- 📊 Interested in Data, Excel, SQL, Power BI
-- 📫 Reach me at: sidrasheikh282@gmail.com
-- ⚡ Always curious to learn new skills
+
+- 🎓 Aspiring Data Analyst from India
+- 📊 Skilled in Excel, SQL, Power BI, Python
+- 📈 Interested in Data Visualization & Analytics
+- 💼 Open to internships and entry-level opportunities
+- 📫 Reach me at: sidrasheikh282@gmail.com 
 
 ---
 
-### 🌐 Connect with me:
+### 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sidra-sheikh)
 
@@ -22,18 +28,12 @@
 
 ---
 
-### 🚀 Languages & Tools:
+### 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,python,java,sql" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,sql" />
 </p>
 
 ---
 
-### 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sidrasheikhh&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sidrasheikhh&theme=tokyonight" />
-</p>
 

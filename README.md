@@ -26,6 +26,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:sidrasheikh282@gmail.com)
 
+
 ---
 
 ### 🚀 Tech Stack
@@ -35,5 +36,20 @@
 </p>
 
 ---
+---
 
+## 📂 Featured Projects
+
+### 📊 Data Analysis Project
+- Analyzed sales data using Excel & SQL  
+- Created dashboard in Power BI  
+- Insights on revenue growth & customer trends  
+
+### 📈 SQL Practice Projects
+- Queries using JOIN, GROUP BY, Subqueries  
+- Real-world dataset analysis  
+
+### 🐍 Python Mini Projects
+- Data cleaning using Pandas  
+- Basic data visualization using Matplotlib
 

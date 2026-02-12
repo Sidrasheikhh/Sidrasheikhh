@@ -3,7 +3,7 @@
 <h3 align="center">Aspiring Data Analyst</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=24&center=true&vCenter=true&width=700&lines=Learning+Excel+|+SQL+|+Power+BI+|+Python;Passionate+about+Data+📊;Open+to+Opportunities" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=24&center=true&vCenter=true&width=700&lines=Learning+Excel+|+SQL+|+MySql+|+Power+BI+|+Python;Passionate+about+Data+📊;Open+to+Opportunities" />
 </p>
 <h3 align="center">💼 Open to Data Analyst Internships</h3>
 
